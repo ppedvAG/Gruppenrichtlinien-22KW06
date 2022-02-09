@@ -10,3 +10,7 @@ Agenda:
   - Organisationseinheiten und Ihre Strukturierung
 - Cloudbasierten Alternativen
   - MDM   
+- Installation AD
+  - Grundlagen ADMX
+    - Central Store
+    - Local Store
