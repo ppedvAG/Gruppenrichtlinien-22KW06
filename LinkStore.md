@@ -6,3 +6,4 @@
 
 [AD DomänenName Empfehlung](https://blog.ppedv.de/post/wie-ein-guter-domnen-name-aussieht-und-wie-nicht )
 
+[Windows Hello for Business](https://docs.microsoft.com/de-de/windows/security/identity-protection/hello-for-business/hello-cert-trust-policy-settings)
