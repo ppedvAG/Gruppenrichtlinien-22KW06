@@ -14,3 +14,18 @@ Agenda:
   - Grundlagen ADMX
     - Central Store
     - Local Store
+- GPO:
+  - Grundlagen
+    - Vererbung
+    - Richtlinien / Einstellungen
+  - Dateierweiterung
+  - Netzlaufwerk
+  - StartLayout
+  - Bitlocker
+- Filterung:
+    - Delegierung / Sicherheitsfilterung
+    - WMI Filterung
+      ```sql
+      #ProductType 1 = Client | 2 = DC | 3 = normaler Server
+      SELECT ProductType FROM Win32_OperatingSystem WHERE ProductType = 1
+      ```
